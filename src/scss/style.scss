@@ -1,0 +1,15 @@
+$footer-bgcolor: seagreen;
+
+body {
+    background-color: white;
+    color: black; }
+    body h1, body h2 {
+      font-family: Courier; 
+}
+  
+header#main-header {
+    padding: 1.5em;
+    background: $footer-bgcolor;
+    color: #fff; 
+}
+
