@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Lando",
+  "author": "Ed",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
